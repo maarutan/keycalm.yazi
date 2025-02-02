@@ -17,7 +17,7 @@ Make sure you have Yazi installed and configured. Then, install **KeyCalm**:
 ### **1️⃣ Clone the repository**
 
 ```sh
-git clone https://github.com/yourusername/keycalm ~/.config/yazi/plugins/keycalm
+git clone https://github.com/maarutan/keycalm ~/.config/yazi/plugins/keycalm
 ```
 
 ## or `ya`
