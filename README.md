@@ -1,4 +1,6 @@
 ---
+https://github.com/user-attachments/assets/53257156-e531-4aa5-9865-6b42f623b5a9
+
 ### **KeyCalm: Smart Key Rate Limiter for Yazi**
 🚀 **KeyCalm** is a **plugin for Yazi** that prevents excessive key spamming by blocking keys after a certain number of presses within a short time.
 
