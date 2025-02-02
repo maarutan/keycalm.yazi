@@ -47,7 +47,7 @@ run  = "plugin keycalm --args=<Esc>"
 desc = "Reset KeyCalm block"
 ```
 
-### **3️⃣Configuration**
+### **3️⃣ Configuration**
 
 You can **customize KeyCalm** by adding the setup function to `init.lua`:
 
